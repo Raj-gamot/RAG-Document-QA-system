@@ -1,8 +1,11 @@
-# Mistral RAG System
+# 📄 RAG Document Q&A System
 
-A lightweight **Retrieval-Augmented Generation (RAG)** system built with **FastAPI, ChromaDB, LangChain, Mistral AI, and Streamlit**.
+An AI-powered Retrieval-Augmented Generation (RAG) application that allows users to upload PDF/DOCX documents and ask natural language questions about them.
 
-Upload documents, store embeddings in a local vector database, and ask natural-language questions answered from retrieved context.
+## 🚀 Live Demo
+Frontend: https://your-frontend.onrender.com
+
+Backend API: https://your-backend.onrender.com/docs
 
 ## Features
 
