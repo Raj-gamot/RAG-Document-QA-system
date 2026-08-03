@@ -3,7 +3,7 @@ uvicorn[standard]
 python-multipart
 pydantic
 
-streamlit
+streamlit==1.60.0
 requests
 
 chromadb
