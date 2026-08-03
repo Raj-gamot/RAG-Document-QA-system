@@ -2,7 +2,7 @@ import os
 import uuid
 import chromadb
 from dotenv import load_dotenv
-from langchain_text_splitter import RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders import PyPDFLoader, Docx2txtLoader
 from langchain_mistralai import MistralAIEmbeddings, ChatMistralAI
 
