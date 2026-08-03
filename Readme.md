@@ -3,7 +3,7 @@
 An AI-powered Retrieval-Augmented Generation (RAG) application that allows users to upload PDF/DOCX documents and ask natural language questions about them.
 
 ## 🚀 Live Demo
-Frontend: https://your-frontend.onrender.com
+Frontend:https://rag-document-ui.onrender.com/
 
 Backend API: https://your-backend.onrender.com/docs
 
