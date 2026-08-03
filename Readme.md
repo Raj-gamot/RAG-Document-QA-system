@@ -5,7 +5,7 @@ An AI-powered Retrieval-Augmented Generation (RAG) application that allows users
 ## 🚀 Live Demo
 Frontend:https://rag-document-ui.onrender.com/
 
-Backend API: https://your-backend.onrender.com/docs
+Backend API:https://rag-document-qa-system-r5nv.onrender.com/docs#/default/upload_file_upload_post
 
 ## Features
 
